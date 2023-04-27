@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en" class="h-100">
+<head>
+  <meta charset="utf-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    Today is {{ data.current_date }}
+    <br>
+    Информация о предстоящих матчах в различных дисциплинах:
+    {% block content %}{% endblock %}
+</body>
+</html>
