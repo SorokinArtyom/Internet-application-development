@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c13862e4-b3b1-43c9-80ce-4440f857bc75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/public/Your-rates.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/Your-rates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/images/DeleteIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/svg_head_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Components/svg_head_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/InputField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/LogoBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/AddStavkaForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Authorization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Block_match.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/FormAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/FormRegister.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/InputField2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/Section_Teams_International.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/UpdateStavka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pages/YouAreNotAuthorizated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Store/UserStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Your-rates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Blog-Template.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Blog-Template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Post-Template.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Post-Template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/counter-strike.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/counter-strike.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/dota-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/dota-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/valorant.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/valorant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/blog/пост.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/blog/пост.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/0fd3416c.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/0fd3416c.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/2560px-Valorant_logo_-_pink_color_version.svg.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/2560px-Valorant_logo_-_pink_color_version.svg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/6776035b666c37d8cbc41e4a1c5f086e_w_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/6776035b666c37d8cbc41e4a1c5f086e_w_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/68f64b9d.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/68f64b9d.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/8ad73f3c.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/8ad73f3c.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/PSGLGD_Gaming_logo_w_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/PSGLGD_Gaming_logo_w_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/b3971106c3eb208e59e8249f8ee9f0c0_w_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/b3971106c3eb208e59e8249f8ee9f0c0_w_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/csgo.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/csgo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/default-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/default-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/dota2-logo-official.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/dota2-logo-official.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image3.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image4.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image5.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/images/image6.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/images/image6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/nicepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/nicepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/nicepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/nicepage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Главная.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Главная.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Главная.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Главная.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Контакты.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Контакты.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Контакты.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Контакты.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/О-нас.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/О-нас.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/О-нас.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/О-нас.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Пробная-страница.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Пробная-страница.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Пробная-страница.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Пробная-страница.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Страница-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Страница-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/Web_Application/Страница-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/Страница-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hs5xOeUoJBZXnu9JGLzL0zpMba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Сорокин/PycharmProjects/Seti_Kursovaya/24/24/КР по СТ/earth-viewer",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\public\images" />
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\public\blog" />
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\public" />
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\src\Pages" />
+      <recent name="C:\Users\Сорокин\WebstormProjects\Probnik\my-app\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13862e4-b3b1-43c9-80ce-4440f857bc75" name="Changes" comment="" />
+      <created>1669061196446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669061196446</updated>
+      <workItem from="1669061197609" duration="3384000" />
+      <workItem from="1669107956503" duration="11353000" />
+      <workItem from="1669197152371" duration="11119000" />
+      <workItem from="1669224941243" duration="3500000" />
+      <workItem from="1669323447340" duration="1570000" />
+      <workItem from="1669360125699" duration="8466000" />
+      <workItem from="1669653573705" duration="849000" />
+      <workItem from="1669714927491" duration="16697000" />
+      <workItem from="1669802595218" duration="1192000" />
+      <workItem from="1670072724789" duration="6000" />
+      <workItem from="1670231277307" duration="18741000" />
+      <workItem from="1670309754436" duration="596000" />
+      <workItem from="1670322874717" duration="13478000" />
+      <workItem from="1670405496259" duration="13885000" />
+      <workItem from="1670430741640" duration="1186000" />
+      <workItem from="1670490366569" duration="18869000" />
+      <workItem from="1670530785855" duration="4128000" />
+      <workItem from="1670595552010" duration="25000" />
+      <workItem from="1670600445695" duration="7000" />
+      <workItem from="1670657911084" duration="42000" />
+      <workItem from="1670679200311" duration="685000" />
+      <workItem from="1671182575047" duration="4903000" />
+      <workItem from="1671281550696" duration="824000" />
+      <workItem from="1671524548936" duration="32478000" />
+      <workItem from="1671610820135" duration="2691000" />
+      <workItem from="1671632028715" duration="595000" />
+      <workItem from="1671658730321" duration="271000" />
+      <workItem from="1671662300178" duration="418000" />
+      <workItem from="1671977733030" duration="10379000" />
+      <workItem from="1672008464524" duration="1698000" />
+      <workItem from="1672048829484" duration="6764000" />
+      <workItem from="1672059588240" duration="17572000" />
+      <workItem from="1672131920617" duration="32141000" />
+      <workItem from="1672211234799" duration="6449000" />
+      <workItem from="1672222511266" duration="748000" />
+      <workItem from="1672327847856" duration="1908000" />
+      <workItem from="1672747759546" duration="127000" />
+      <workItem from="1672770949067" duration="1303000" />
+      <workItem from="1672839603841" duration="674000" />
+      <workItem from="1672864562039" duration="989000" />
+      <workItem from="1672937236802" duration="1645000" />
+      <workItem from="1673014745866" duration="2293000" />
+      <workItem from="1673182353777" duration="9386000" />
+      <workItem from="1673256055837" duration="1435000" />
+      <workItem from="1673384396798" duration="773000" />
+      <workItem from="1673428423059" duration="2059000" />
+      <workItem from="1673599062402" duration="5218000" />
+      <workItem from="1673622270561" duration="9103000" />
+      <workItem from="1673680503339" duration="15957000" />
+      <workItem from="1673706862708" duration="3076000" />
+      <workItem from="1673766837416" duration="14651000" />
+      <workItem from="1673790021709" duration="59000" />
+      <workItem from="1673791547422" duration="21659000" />
+      <workItem from="1673846470022" duration="14196000" />
+      <workItem from="1673869058970" duration="6437000" />
+      <workItem from="1673882761737" duration="27381000" />
+      <workItem from="1673932542869" duration="11533000" />
+      <workItem from="1674940133054" duration="651000" />
+      <workItem from="1682620882515" duration="1586000" />
+      <workItem from="1682687527939" duration="13000" />
+      <workItem from="1684918425192" duration="818000" />
+      <workItem from="1685479613697" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

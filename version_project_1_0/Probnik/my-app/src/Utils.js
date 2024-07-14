@@ -1,0 +1,8 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const USER_STAVKI_ROUTE = '/Your-rates'
+export const MAIN_ROUTE = '/'
+export const INFO_ROUTE = '/info'
+export const CONTACTS_ROUTE = '/contacts'
+export const MATCH_ROUTE = '/match'
